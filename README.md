@@ -1,6 +1,4 @@
 - 👋 Hi, I’m @cristidinuta
-- 👀 I’m interested in coding
-- 🌱 I’m currently learning web development
 - 📫 How to reach me: alexcristidinuta@gmail.com
 
 <!---
